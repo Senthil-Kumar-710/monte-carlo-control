@@ -80,14 +80,7 @@ def mc_control (env, gamma = 1.0,
 
 ## OUTPUT:
 
-### 1st Ouput
-
-![image](https://github.com/Senthil-Kumar-710/monte-carlo-control/assets/93860256/ede4b71f-4ba8-4040-8981-f1a6b6c90742)
-
-
-### 2nd Output
-
-![image](https://github.com/Senthil-Kumar-710/monte-carlo-control/assets/93860256/fdcb347b-e747-496d-9dd3-3b13ac4bd348)
+![](o1.png)
 
 ## RESULT:
 
